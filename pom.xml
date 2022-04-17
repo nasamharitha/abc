@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>abc</finalName>
+    <finalName>abc_dev_branch</finalName>
   </build>
 </project>
